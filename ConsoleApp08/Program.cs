@@ -16,6 +16,7 @@ namespace ConsoleApp08
             Console.Write("コンソールに文字列２を入力：");
             string message2 = Console.ReadLine();
             Console.WriteLine( message1 + message2 );
+
         }
     }
 }
